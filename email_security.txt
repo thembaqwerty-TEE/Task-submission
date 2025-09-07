@@ -1,0 +1,20 @@
+What three things should have alerted you to the fact that the email from the 
+bank was not legitimate? 
+1. The email had spelling or grammar mistakes.
+2. The sender's address was not matching the bank's domain details
+3. It asked for personal details while i know that the bank already had my details
+
+Do you think it is possible your computer is infected with malware based on the given email scenario? Justify your answer
+=Yes, it’s possible. If the email had a malicious attachment or a link and you clicked or downloaded it, that could have installed malware on your computer. Emails are a common way attackers spread infections and attack your data or information.
+
+Write a paragraph to train fellow employees on phishing, social engineering, and 
+how to avoid malware infection (200–400 words)
+= Phishing is spam email that poses as a legit email to trick you to submit your data and your personal information,phishing can pursuade you to give up your logging credintial of your bank, social media accounts and email accounts,
+when faced with this situation make sure to be incontact with the bank or the service provider that are beuing listed in that email to confirm before ending out your details and make sure you also call the bank and verify if indeed they sent you such email.
+social engineering is when someone tricks you in giving them your logging details,posing as a consultant or an employee of the certain organization and tell you that you need to give them an information so you can avoid long phonecalls and unecessary questions,
+this people may play on your emotions and pressurize you to give them information that is sensitive. the way you can avoid malware infection is to do the following:
+1. Do not click suspecious links or attachments, Even if an email or message looks real, think twice before opening anything unexpected.
+2. Keep your softwares updated and make sure your antivirus are always up to date to patch security holes
+3. Use strong and unique passwords, avoid using the same passwords for every accounts you have from the banks,emails and social media.
+4. Avoid plugging unkown USB's and harddrive and copy files without running the malware scan and antivirus on and make sure your firewall is always on.
+dear my coworker ,stay safe whenever you are online or offline and make sure you keep your information sensitive safe and not share it with anyone.

@@ -1,0 +1,8 @@
+What do you think the risk is for individuals when their email addresses 
+and passwords are exposed to the public? 
+=If your email and password get exposed, someone can break into your accounts, steal your info, or even take your money.
+
+Name two actions you can take to protect yourself against the risks 
+associated with data breaches. 
+=Use stronger password
+=Turn on two-factor authentication
