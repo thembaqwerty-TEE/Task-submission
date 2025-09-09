@@ -1,1 +1,16 @@
+Principles Based Governance Security Framework
+
+To protect sensitive data and improve our consultancy’s security posture alongside client and staff trust, I would recommend the following five guiding principles:
+
+Device…
+Every employee must access the network over secured, company-approved devices. Any access by personal systems or unmanaged devices creates undue risk. Company assigned and utilized devices must have current antivirus, firewalls and encryption. For remote work, cyber cafes and other public space has restrictions that must require VPN access.
+
+Access Control…
+Employees should have access only to the systems, files and data that accompany their positions. Every account must have Multi Factor Authentication and no shared logins. This principle helps contain the resulting damage if credenials are stolen.
+
+Security Training…
+Employees should complete regular training on phishing, social engineering, and email triage. Do not foster a culture of fear to modify behavior after the fact. Encourage employees to report suspicious behavior to help the organization. This transforms your personnel from a liability to a line of defense.
+
+Incident Response…
+There needs to be both internal and external access to a document containing step by step processes to respond to a cyber incident.
 
